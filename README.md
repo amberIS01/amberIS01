@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/amberIS01/amberIS01/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Sahil Singh</h1>
 <h3 align="center">Aspiring DevOps Engineer | Passionate Coder | Cloud & Cybersecurity Enthusiast</h3>
 
