@@ -69,28 +69,6 @@ I'm a final-year Computer Engineering student specializing in DevOps, passionate
 - Configured VLANs, routing protocols (OSPF, EIGRP), and implemented network security with ACLs
 - Applied TCP/IP stack knowledge essential for modern DevOps and cloud deployments
 
-## 🚀 Highlighted Projects
-
-### **PilotsOntip - Aviation Booking Platform**
-*Python, FastAPI, MySQL, Docker, SQLAlchemy*
-- Built comprehensive REST API with 90+ endpoints for aviation booking platform serving pilots and customers
-- Designed AI-powered chatbot with automatic case ID generation and intelligent conversation management
-- Implemented complex MySQL database schema with 17 interconnected tables handling multi-dashboard analytics
-- Containerized entire application stack using Docker with multi-stage builds and Docker Compose orchestration
-
-### **AI-Powered E-commerce Platform** 
-*FastAPI, LangGraph, ChromaDB, React, Ollama*
-- Developed conversational AI shopping assistant using LangGraph workflow engine with state-driven orchestration
-- Implemented RAG pipeline with ChromaDB for product search and context retrieval
-- Integrated Mistral LLM via Ollama for local inference, achieving sub-second response times
-- Designed fallback systems with keyword matching ensuring 99.9% uptime during AI service interruptions
-
-### **Park & Ride Management System**
-*Spring Boot, MySQL, Docker, JWT, Thymeleaf*
-- Developed full-stack urban mobility solution with real-time parking availability tracking
-- Implemented secure authentication using Spring Security with JWT tokens and role-based access control
-- Created responsive frontend with Thymeleaf templates, Bootstrap 5, and Leaflet.js for interactive maps
-- Built reward points system with user dashboard showing booking history and statistics
 
 ## 📊 GitHub Stats
 
