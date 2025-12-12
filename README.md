@@ -92,11 +92,3 @@ I'm a final-year Computer Engineering student specializing in DevOps, passionate
 [![HackerRank](https://img.shields.io/badge/HackerRank-sahilsingh8300-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/sahilsingh8300)
 
 </div>
-
----
-
-<div align="center">
-  
-⭐️ From [amberIS01](https://github.com/amberIS01)
-
-</div>
