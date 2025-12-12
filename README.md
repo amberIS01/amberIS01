@@ -74,9 +74,11 @@ I'm a final-year Computer Engineering student specializing in DevOps, passionate
 
 <div align="center">
   
-![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amberIS01&show_icons=true&theme=radical&hide_title=true&count_private=true)
+![Sahil's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=amberIS01&show_icons=true&theme=radical
+)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amberIS01&layout=compact&theme=radical&hide_title=true)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=amberIS01&layout=compact&theme=radical
+)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amberIS01&theme=radical)
 
