@@ -55,21 +55,6 @@ I'm a final-year Computer Engineering student specializing in DevOps, passionate
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector%20Database-FF6384?style=for-the-badge)
 
-## 💼 Professional Experience
-
-### **EY GDS** | Full Stack Development Intern
-*Dec 2024 - Jan 2025 | Virtual*
-- Designed and implemented scalable web applications with performance optimization and secure authentication
-- Developed containerization-ready architecture using Docker for multi-environment deployment
-- Collaborated on implementing best practices for code quality, testing, and documentation
-
-### **AICTE-Cisco Networking Academy** | Network Engineering Virtual Intern  
-*May 2024 - Jul 2024 | Virtual*
-- Designed and simulated enterprise network architectures for 50+ node networks using Cisco Packet Tracer
-- Configured VLANs, routing protocols (OSPF, EIGRP), and implemented network security with ACLs
-- Applied TCP/IP stack knowledge essential for modern DevOps and cloud deployments
-
-
 ## 📊 GitHub Stats
 
 <div align="center">
