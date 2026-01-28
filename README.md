@@ -19,7 +19,6 @@ I'm a final-year Computer Engineering student specializing in DevOps, passionate
 
 - 🔭 **Currently working on:** Advanced RAG systems and Kubernetes orchestration for AI workloads
 - 🌱 **Currently learning:** MLOps practices and advanced cloud security patterns
-- 👨‍💻 **Portfolio:** [mywebsiteme.netlify.app](https://mywebsiteme.netlify.app/)
 - 📫 **Reach me at:** sahilsingh8300@gmail.com
 - 📄 **Resume:** [View my resume](https://drive.google.com/file/d/1TxE_LVPeA_-I4pjwZrPYPI4DWj_TJBAF/view?usp=drive_link)
 - ⚡ **Fun fact:** I've automated deployment processes that reduced release times from hours to minutes!
