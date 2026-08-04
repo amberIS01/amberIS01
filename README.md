@@ -57,7 +57,7 @@ no budget limit is an incident waiting for a timestamp.
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=amberIS01&show_icons=true&bg_color=0b1827&title_color=38bdf8&icon_color=38bdf8&text_color=96a0af&border_color=1e2e42" alt="GitHub stats" height="165"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=amberIS01&show_icons=true&count_private=true&include_all_commits=true&bg_color=0b1827&title_color=38bdf8&icon_color=38bdf8&text_color=96a0af&border_color=1e2e42" alt="GitHub stats" height="165"/>
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=amberIS01&layout=compact&bg_color=0b1827&title_color=38bdf8&text_color=96a0af&border_color=1e2e42" alt="Top languages" height="165"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=amberIS01&background=0b1827&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=96a0af&currStreakNum=f3f6fa&sideNums=f3f6fa&dates=606e82&border=1e2e42" alt="Streak" height="165"/>
